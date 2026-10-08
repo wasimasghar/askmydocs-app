@@ -14,6 +14,29 @@ layout for phones, tablets and desktop browsers.
 
 ---
 
+## Screenshots
+
+| Start a chat | Upload & manage PDFs |
+| ------------ | -------------------- |
+| ![Empty chat with suggested questions](screenshots/dashboard_screen.png) | ![Settings with server status, upload card and document list](screenshots/setting_pdf_uploading.png) |
+
+| Answer with sources | Follow-up question |
+| ------------------- | ------------------ |
+| ![Summary answer with sources](screenshots/query_one.png) | ![Detailed follow-up answer with page references](screenshots/query_two.png) |
+
+--------- | -------- |
+| ![Dashboard on web](screenshots/dashboard_web.png) | ![Settings on web](screenshots/settings_web.png) |
+
+### Mobile
+
+<p>
+  <img src="screenshots/dashboard_mobile.png" alt="Dashboard on mobile" width="260" />
+  &nbsp;&nbsp;
+  <img src="screenshots/settings_mobile.png" alt="Settings on mobile" width="260" />
+</p>
+
+---
+
 ## Features
 
 ### Dashboard (chat)
